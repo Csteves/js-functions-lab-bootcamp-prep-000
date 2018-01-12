@@ -11,7 +11,7 @@ return `Happy holidays, ${name}!`
 }
 
 function happyHolidayTo(holiday,name) {
-  if(holiday=== "Independence Day") 
+  if(holiday=== "Independence Day")
   if (name=== "you")
-  return `happy ${holiday], ${name}!`
-  }
+  return `Happy ${holiday}, ${name}!`
+}
