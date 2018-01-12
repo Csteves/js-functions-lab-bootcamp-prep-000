@@ -15,3 +15,5 @@ function happyHolidayTo(holiday,name) {
   if (name=== "you")
   return `Happy ${holiday}, ${name}!`
 }
+
+function holidayCountdown()
